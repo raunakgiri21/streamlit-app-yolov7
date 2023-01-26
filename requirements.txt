@@ -1,0 +1,8 @@
+numpy
+onnxruntime
+opencv_python
+Pillow
+PyYAML
+requests
+streamlit
+protobuf==3.20.1
