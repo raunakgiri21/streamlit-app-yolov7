@@ -1,6 +1,8 @@
 import streamlit as st
+import os
 from PIL import Image
 import numpy as np
+st.write(os.getcwd())
 st.set_page_config(page_title="Detection", layout='wide', page_icon='./webApp/images/object.png')
 st.title('Welcome to Detection Page')
 st.caption('Try object detection by uploading an image!')
