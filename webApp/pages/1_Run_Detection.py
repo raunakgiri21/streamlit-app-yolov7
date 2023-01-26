@@ -13,7 +13,7 @@ st.write(os.getcwd())
 # ................ Loading Model...............
 import onnxruntime as ort
 from time import sleep
-from webApp.yolo_predictions import YOLO_Pred
+from yolo_predictions import YOLO_Pred
 
 modelSuccessStatus = ''
 
