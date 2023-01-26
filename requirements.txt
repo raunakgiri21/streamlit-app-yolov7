@@ -1,6 +1,6 @@
 numpy
 onnxruntime
-opencv_python
+opencv_python_headless
 Pillow
 PyYAML
 requests
